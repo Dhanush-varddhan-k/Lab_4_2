@@ -3,5 +3,3 @@ This is 3rd commit.
 This is 4th commit.
 
 Making changes for stashing.
-
-Learning revert
